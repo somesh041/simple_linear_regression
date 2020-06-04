@@ -1,2 +1,3 @@
-# simple_linear_regression
-simple regression model in ML
+# Linear_regression
+simple linear regression model in ML
+multiple linear regression model in ML
